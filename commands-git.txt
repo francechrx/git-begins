@@ -1,7 +1,0 @@
--> cloner un repository
-git clone puis le nom du repository
-
--> les 3 commandes de push
-git push
-git push -u origin <nom-de-la-branche>
-git push --tags ou git push origin <nom-du-tag> 
